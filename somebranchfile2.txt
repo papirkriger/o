@@ -1,2 +1,2 @@
 sencond branchfile
-somebranch2 -line changed by 02/master
+somebranch2 -line changed by 02/master - then changed by 0/master
